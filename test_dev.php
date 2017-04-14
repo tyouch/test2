@@ -1,5 +1,5 @@
 <?php
 phpinfo();
-echo 'ttt dev';
-echo 'test2';
+echo '/d/ttt/test2';
+echo '/d/wamp/www/test2';
 ?>
